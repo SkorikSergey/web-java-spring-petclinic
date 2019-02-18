@@ -7,7 +7,7 @@ Spring PetClinic Sample Application
 
 This Eclipse Che Factory can also be invoked with any host:
 {hostURL}/f?url=https://github.com/che-samples/web-java-spring-petclinic
-It will read the `.factory.json` from the repository to instanciate the developer workspdace.
+It will read the `.factory.json` from the repository to instanciate the developer workspdace. 
  
 Example:
 http://che.openshift.io/f?url=https://github.com/che-samples/web-java-spring-petclinic
